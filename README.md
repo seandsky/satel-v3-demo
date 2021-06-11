@@ -1,6 +1,6 @@
 # Cesium + Vue3 + Typescript + tailwindcss 模板
 
-![](src/img.png)
+![](src/img2.png)
 
 ## Project setup
 
